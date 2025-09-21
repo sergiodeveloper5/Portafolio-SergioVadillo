@@ -4,7 +4,7 @@ Soy un **Técnico Superior en Desarrollo de Aplicaciones Multiplataforma** con u
 
 #### Lo que busco
 
-Busco mi primer empleo como desarrollador junior en Madrid, en un entorno colaborativo e innovador que me permita aplicar y ampliar mis conocimientos. Estoy listo para afrontar nuevos retos y contribuir al éxito de un equipo con mis habilidades técnicas y mi gran motivación.
+Busco mi primer empleo como desarrollador junior, en un entorno colaborativo e innovador que me permita aplicar y ampliar mis conocimientos. Estoy listo para afrontar nuevos retos y contribuir al éxito de un equipo con mis habilidades técnicas y mi gran motivación.
 
 #### Proyectos destacados
 
